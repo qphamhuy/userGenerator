@@ -1,0 +1,11 @@
+{
+  "name": "usergenerator",
+  "version": "1.0.0",
+  "description": "Script to generate users with full names and email addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quang Pham Huy (qphamhuy@gmail.com)",
+  "license": "ISC"
+}

@@ -1,0 +1,8 @@
+[
+    { "char": "a", "followers": [ "e", "i", "o", "u", "y" ] },
+    { "char": "e", "followers": [ "a", "e", "i", "u" ] },
+    { "char": "i", "followers": [ "a", "e", "o", "u" ] },
+    { "char": "o", "followers": [ "a", "i", "o", "u", "y" ] },
+    { "char": "u", "followers": [ "i" ] },
+    { "char": "y", "followers": [ "a", "e", "o", "u" ] }
+]
